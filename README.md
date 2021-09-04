@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Welcome](/github/github-Myprofile.png?raw=true)
+![Welcome](/github-Myprofile.png?raw=true)
 
 
 <!--
