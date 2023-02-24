@@ -4,11 +4,11 @@
 - 📖 Aprendendo Javascript
 - 🔍 Curioso demais da conta
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300" align="right" alt="Computador">
+ 
 
 
 ### :fire: Meu Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Antonio-pf&theme=radical&border_radius=15&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Antonio-pf&theme=java-dark&hide_border=true&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
 <div style="display: inline_block"><br>
   
   ## 🛠️ Minhas Skills
