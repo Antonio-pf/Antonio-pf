@@ -3,7 +3,8 @@
 - 🚀 Cursando Análise e Desenvolvimento de Sistemas
 - 📖 Aprendendo Javascript
 - 🔍 Curioso demais da conta
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300" align="right" alt="Computador">3
+
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300" align="right" alt="Computador">
 
 
 ### :fire: Meu Status :
