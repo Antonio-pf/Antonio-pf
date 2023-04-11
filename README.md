@@ -2,7 +2,7 @@
 
 - 🚀 Cursando Análise e Desenvolvimento de Sistemas
 - 📖 Aprendendo Javascript
-- 🔍 Curioso demais da conta
+- 🔍 Curioso 
 
  
 
