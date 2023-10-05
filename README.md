@@ -1,16 +1,4 @@
-## 😄 Olá pessoal, eu sou Antonio! 
 
-- 🚀 Cursando Análise e Desenvolvimento de Sistemas
-- 📖 Aprendendo Javascript
-- 🔍 Curioso 
-
- 
-
-
-### :fire: Meu Status :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Antonio-pf&theme=java-dark&hide_border=true&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
-<div style="display: inline_block"><br>
-  
   ## 🛠️ Minhas Skills
   
   <img align="center" alt="Java-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
