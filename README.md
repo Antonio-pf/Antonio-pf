@@ -21,4 +21,4 @@ I'm passionate about technology and thrive on learning new skills and putting th
 
 ## Follow my journey! 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-pires-felipe-9844ab160/)](https://www.linkedin.com/in/monicamhillman/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-pires-felipe-9844ab160/)](https://www.linkedin.com/in/ant%C3%B4nio-pires-felipe-9844ab160/)
