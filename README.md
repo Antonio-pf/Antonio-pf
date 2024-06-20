@@ -6,9 +6,6 @@ In my professional life, I work as a fullstack developer at NicNet, where I util
 
 I'm passionate about technology and thrive on learning new skills and putting them into practice.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Antonio-pf&count_private=true&show_icons=true&theme=onedark" /> </p>
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='45px'/>
